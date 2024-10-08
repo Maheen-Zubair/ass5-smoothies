@@ -10,9 +10,9 @@ export default function Second(){
   return(
      <div className="second">
              {/* main*/}
-<div className="md:flex md:flex-row md:justify-start items-center md:gap-[50px] md:overflow-x-scroll md:h-screen">
-             <div className="  imgsec h-[480px] w-[300px] mx-auto rounded-3xl hover:border-black shadow-lg transform hover:shadow-2xl transition-shadow duration-300 ">
-             <div className="flex items-end justify-center inset-0 h-[300px] w-[300px] mx-auto mt-[30%] rounded-full bg-transparent box-shadow-black ">
+<div className="pt-[5%] pb-[15%] md:pb-0 md:pt-0 md:flex md:flex-row md:justify-start items-center md:gap-[50px] md:overflow-x-scroll md:h-screen">
+             <div className="  mt-[18%] md:mt-[7%] md:ml-5 imgsec h-[480px] w-[300px] mx-auto rounded-3xl hover:border-black shadow-lg transform hover:shadow-2xl transition-shadow duration-300 ">
+             <div className="flex items-end justify-center inset-0 h-[300px] w-[300px] mx-auto rounded-full bg-transparent box-shadow-black ">
                 <Image
                  className=" h-[320px] w-auto mx-auto hover:h-[390px] transition ease-in-out delay-0.5s duration-300"
                 src={image}
@@ -26,8 +26,8 @@ export default function Second(){
 
                         {/*second pink */}
 
-            <div className="  imgsec h-[480px] w-[300px] mx-auto rounded-3xl hover:border-black shadow-lg transform hover:shadow-2xl transition-shadow duration-300 ">
-         <div className="flex items-end justify-center inset-0 h-[300px] w-[300px] mx-auto mt-[30%] rounded-full bg-transparent box-shadow-black ">
+            <div className=" mt-[18%] md:mt-[7%] imgsec h-[480px] w-[300px] mx-auto rounded-3xl hover:border-black shadow-lg transform hover:shadow-2xl transition-shadow duration-300 ">
+         <div className="flex items-end justify-center inset-0 h-[300px] w-[300px] mx-auto  rounded-full bg-transparent box-shadow-black ">
                 <Image
                  className=" h-[320px] w-auto mx-auto hover:h-[390px] transition ease-in-out delay-0.5s duration-300"
                 src={image2}
@@ -42,8 +42,8 @@ export default function Second(){
 
               {/*third bludge */}
 
-            <div className="  imgsec h-[480px] w-[300px] mx-auto rounded-3xl hover:border-black shadow-lg transform hover:shadow-2xl transition-shadow duration-300 ">
-         <div className="flex items-end justify-center inset-0 h-[300px] w-[300px] mx-auto mt-[30%] rounded-full bg-transparent box-shadow-black ">
+            <div className=" mt-[18%] md:mt-[7%] imgsec h-[480px] w-[300px] mx-auto rounded-3xl hover:border-black shadow-lg transform hover:shadow-2xl transition-shadow duration-300 ">
+         <div className="flex items-end justify-center inset-0 h-[300px] w-[300px] mx-auto rounded-full bg-transparent box-shadow-black ">
                 <Image
                  className=" h-[320px] w-auto mx-auto hover:h-[390px] transition ease-in-out delay-0.5s duration-300"
                 src={image3}
@@ -57,8 +57,8 @@ export default function Second(){
 
                {/* fourth purple*/}
 
-            <div className="  imgsec h-[480px] w-[300px] mx-auto rounded-3xl hover:border-black shadow-lg transform hover:shadow-2xl transition-shadow duration-300 ">
-         <div className="flex items-end justify-center inset-0 h-[300px] w-[300px] mx-auto mt-[30%] rounded-full bg-transparent box-shadow-black ">
+            <div className=" mt-[18%] md:mt-[7%] imgsec h-[480px] w-[300px] mx-auto rounded-3xl hover:border-black shadow-lg transform hover:shadow-2xl transition-shadow duration-300 ">
+         <div className="flex items-end justify-center inset-0 h-[300px] w-[300px] mx-auto rounded-full bg-transparent box-shadow-black ">
                 <Image
                  className=" h-[320px] w-auto mx-auto hover:h-[390px] transition ease-in-out delay-0.5s duration-300"
                 src={image4}
@@ -72,8 +72,8 @@ export default function Second(){
 
                {/*fifth dark green */}
 
-            <div className="  imgsec h-[480px] w-[300px] mx-auto rounded-3xl hover:border-black shadow-lg transform hover:shadow-2xl transition-shadow duration-300 ">
-         <div className="flex items-end justify-center inset-0 h-[300px] w-[300px] mx-auto mt-[30%] rounded-full bg-transparent box-shadow-black ">
+            <div className="  mt-[18%] md:mt-[7%] imgsec h-[480px] w-[300px] mx-auto rounded-3xl hover:border-black shadow-lg transform hover:shadow-2xl transition-shadow duration-300 ">
+         <div className="flex items-end justify-center inset-0 h-[300px] w-[300px] mx-auto rounded-full bg-transparent box-shadow-black ">
                 <Image
                  className=" h-[320px] w-auto mx-auto hover:h-[390px] transition ease-in-out delay-0.5s duration-300"
                 src={image5}
@@ -88,8 +88,8 @@ export default function Second(){
 
                {/*sixth orange */}
 
-            <div className="  imgsec h-[480px] w-[300px] mx-auto rounded-3xl hover:border-black shadow-lg transform hover:shadow-2xl transition-shadow duration-300 ">
-         <div className="flex items-end justify-center inset-0 h-[300px] w-[300px] mx-auto mt-[30%] rounded-full bg-transparent box-shadow-black ">
+            <div className="  mt-[18%] md:mt-[7%] imgsec h-[480px] w-[300px] mx-auto rounded-3xl hover:border-black shadow-lg transform hover:shadow-2xl transition-shadow duration-300 ">
+         <div className="flex items-end justify-center inset-0 h-[300px] w-[300px] mx-auto  rounded-full bg-transparent box-shadow-black ">
                 <Image
                  className=" h-[320px] w-auto mx-auto hover:h-[390px] transition ease-in-out delay-0.5s duration-300"
                 src={image6}
