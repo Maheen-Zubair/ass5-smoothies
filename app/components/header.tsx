@@ -1,5 +1,3 @@
-import Link from "next/link"
-
 export default function Header(){
     return(
         <div className=" flex justify-start items-center header h-[35px]">
