@@ -11,14 +11,6 @@ export default function CommentSection(){
       setInput("")
     }
   }
-  const data=[
-    { id: 1, bgColor: "green",},
-    { id: 2, bgColor: "pink",},
-    { id: 3,  bgColor: "bludge",},
-    { id: 4,  bgColor: "purple",},
-    { id: 5, bgColor: "darkGreen",},
-    { id: 6, bgColor: "orange",},
-]
   return (
     <div className="max-w-2xl mx-auto p-4 rounded-md shadow-lg">
     <h2 className="text-lg font-bold mb-4">Feedback</h2>
