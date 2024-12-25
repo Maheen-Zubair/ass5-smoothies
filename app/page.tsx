@@ -1,5 +1,5 @@
 import Image from "next/image";
-import image from "../app/public/yello-blue.jpeg"
+import image from "../public/yello-blue.jpeg"
 import Link from "next/link";
 export default function Home() {
   return (
